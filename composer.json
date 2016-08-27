@@ -1,0 +1,5 @@
+{
+    "require": {
+        "wixel/gump": "^1.3"
+    }
+}
